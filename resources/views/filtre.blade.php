@@ -38,6 +38,7 @@
 					</select>
 				</div>
 			</form>
+			<!-- {!! Form::select('Ville', array)() !!} -->
 		</div>
 	</div>
 </div>
